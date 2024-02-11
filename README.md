@@ -3,3 +3,6 @@
 <p align="center">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 </p>
+
+Repositorio destinado a subir contenido acerca de estudios sobre sistemas operativos modernos,
+como resumenes o documentos que estén relacionados con el tema. 
