@@ -4,4 +4,4 @@
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 </p>
 
-Repositorio destinado a subir estudios, análisis y contenido sobre sistemas operativos modernos. 
+Repositorio destinado a subir archivos del curso de Sistemas Operativos 2.
